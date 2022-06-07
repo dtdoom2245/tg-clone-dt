@@ -1,4 +1,4 @@
-#----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
+#----------------------------------- https://github.com/thantzinmyothant1/tg-clone-dt --------------------------------------------#
 import os
 
 from pyrogram import Client
